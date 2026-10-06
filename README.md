@@ -35,10 +35,14 @@ Heavy colliding serif headlines, black banners, hairline rules and one ember sta
 
 ## Installation
 
-**From the community directory:** Settings → Appearance → Themes → Manage, search for
-**Borozdov Broadside**, then **Install and use**.
+**From the community directory, as a variant:** this theme ships inside **Borozdov
+Ember**. Install Borozdov Ember under Settings → Appearance → Themes → Manage, then the
+[Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin, and choose
+**Broadside** under Style Settings → Borozdov Ember → Variant. The variant brings this
+theme's palette, type and corners; its own layout, and its embedded font if it has one,
+come with the full theme below.
 
-**By hand:** download `manifest.json` and `theme.css` from the [latest
+**The full theme, by hand:** download `manifest.json` and `theme.css` from the [latest
 release](https://github.com/borozdov-obsidian-themes/broadside/releases/latest) into
 `<vault>/.obsidian/themes/Borozdov Broadside/`, then choose Borozdov Broadside under
 Settings → Appearance → Themes.
@@ -58,5 +62,4 @@ MIT — see [LICENSE](LICENSE).
 **По-русски.** Тема из коллекции Borozdov. Два лика: светлый «Гравюра» — старинный листок на
 серой газетной бумаге, и тёмный «Сажа» — тот же лист из закопчённого пресса. Тяжёлые
 теснящиеся заголовки (Noto Serif Black), чёрные плашки, волосяные линейки и одна огненная
-печать. Устанавливается из каталога: Настройки → Оформление → Темы → Настроить → Borozdov
-Broadside → Установить и применить.
+печать. В каталоге тема живёт вариантом Borozdov Ember: установите Borozdov Ember и плагин Style Settings, затем выберите Broadside в Style Settings → Borozdov Ember → Variant. Целиком, со своей вёрсткой, тема ставится вручную из последнего релиза репозитория.
